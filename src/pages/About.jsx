@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <div className="about" style={{ padding: "2rem", maxWidth: "800px", margin: "0 auto" }}>
-      <h2>About PhotoGallery 📸</h2>
+      <h2>About PhotoGallery</h2>
       <p>
         <strong>PhotoGallery</strong> is a simple and responsive web app built with React that allows users to explore and enjoy beautiful, high-resolution photos from the <a href="https://unsplash.com" target="_blank" rel="noreferrer">Unsplash API</a>.
       </p>
@@ -24,7 +24,7 @@ const About = () => {
       <p>
         Whether you're just exploring cool photos or testing out React projects, PhotoGallery is a fun and visually engaging way to see React in action.
       </p>
-      <p>Built with ❤️</p>
+      <p>Built with love</p>
     </div>
   );
 };
