@@ -27,7 +27,16 @@ A sleek, responsive React application for browsing and searching high-quality im
 
 ---
 
+## React Router DOM
+
+The app uses **React Router DOM** for seamless navigation between pages without reloading.
+
+**Installed via**
+
+npm install react-router-dom
+
 ## Getting Started
+
 
 1. **Clone the repository**
    git clone https://github.com/elainebuyeke/photo-gallery-project.git
@@ -63,10 +72,10 @@ src/
 
 ## Contributors
 Built with collaboration and love
-Elaine Omwenga
-Stacey Jepchumba
-Lewis Njuma
-Billadams Nyamweno
+1.Elaine Omwenga
+2.Stacey Jepchumba
+3.Lewis Njuma
+4.Billadams Nyamweno
 
 Enjoy exploring beautiful images!
 
